@@ -12,4 +12,4 @@
 
 
 ## WebSite
-https://noitalog.tokyo/app-screenshot-image-save/
+https://noitaro.github.io/app-screenshot-image-save/
